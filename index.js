@@ -1,3 +1,3 @@
 
 
-alert('Hello!');
+alert('I like making conflicts');
